@@ -66,13 +66,13 @@
 <h3>📫 Connect With Me</h3>
 
 <div style="display: flex; gap: 12px; align-items: center;">
-  <a href="linkedin.com/in/ajay-krishnan-861470358" target="_blank">
+  <a href="https://linkedin.com/in/ajay-krishnan-861470358" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
    &nbsp;&nbsp;
     &nbsp;&nbsp;
 
-  <a href="(https://github.com/064Ajay064/064Ajay064/edit/main/)" target="_blank">
+  <a href="https://github.com/064Ajay064" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
    &nbsp;&nbsp;

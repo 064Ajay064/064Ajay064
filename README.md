@@ -1,7 +1,11 @@
 <div align="center">
 
+
+
 <h1>👋 Hi, I'm Ajay krishnan R</h1>
-<h3>AI • Full Stack • Cloud Enthusiast</h3>
+<h3><i>AI • Full Stack • Cloud Enthusiast</i></h3>
+
+
 
 </div>
 
@@ -18,6 +22,7 @@
 
 
 <hr/>
+
 
 <h2>🛠️ Tech Stacks</h2>
 <p align="left">

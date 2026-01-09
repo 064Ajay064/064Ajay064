@@ -11,6 +11,7 @@
 
 <p>-🚀Building intelligent and scalable solutions through AI</p>
 <p> -⚙️strong programming fundamentals</p> <p>-🧩DSA problem solving</p> 
+<p>-🧑‍💻IT undergraduate(@SREC,CBE)</p> 
 
 
 
@@ -26,13 +27,11 @@
   &nbsp;&nbsp;
   <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
   &nbsp;&nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/ios-filled/50/c-plus-plus-logo.png" alt="C++"/>
-  &nbsp;&nbsp;
   <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
   &nbsp;&nbsp;
   <img width="48" height="48" src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
   &nbsp;&nbsp;
-  <img width="48" height="48" src="https://img.icons8.com/glyph-neue/64/github.png" alt="GitHub"/>
+  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo"/>
 </p>
 
 
@@ -58,13 +57,31 @@
 </ul>
 
 <hr/>
+### 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/0064Ajay0064?theme=dark&font=IBM%20Plex%20Sans%20Arabic&ext=activity)
 
 <div align="center">
 
 <h3>📫 Connect With Me</h3>
 
-<a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
-<a href="https://github.com/yourusername">GitHub</a> •
-<a href="mailto:your-email@example.com">Email</a>
+<div style="display: flex; gap: 12px; align-items: center;">
+  <a href="linkedin.com/in/ajay-krishnan-861470358" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+   &nbsp;&nbsp;
+    &nbsp;&nbsp;
+
+  <a href="(https://github.com/064Ajay064/064Ajay064/edit/main/)" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+   &nbsp;&nbsp;
+    &nbsp;&nbsp;
+
+  <a href="mailto:ajaykrishnan342005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
 
 </div>
